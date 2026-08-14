@@ -10,9 +10,9 @@ Tanzania has tens of thousands of water pumps distributed across the country. Ma
 
 Data from the [DrivenData competition "Pump it Up: Data Mining the Water Table"](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/), containing information on ~59,400 water pumps. Each pump is classified as:
 
-- **functional** — the pump is operational
-- **functional needs repair** — the pump works but needs maintenance
-- **non functional** — the pump is not working
+- **functional** : the pump is operational
+- **functional needs repair** : the pump works but needs maintenance
+- **non functional** : the pump is not working
 
 ## Approach
 
